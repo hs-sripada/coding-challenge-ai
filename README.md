@@ -6,6 +6,9 @@
 # Notebook link (google colab)
 https://colab.research.google.com/drive/1ODhXinlPh9wc0DiiM_lawL0RvaD9V3hD
 
+# Model link 
+https://drive.google.com/file/d/1Y6NtOdj1iFqAwuAWNGK8UrWPxO3v6eKw/view?usp=drive_link
+
 ## Libraries 
 - __pandas__ - Data manipulation and analysis
 - __scikit-learn__ - Machine learning tools (specifically for train_test_split)
